@@ -1,0 +1,23 @@
+.edit {
+    text-align: center;
+}
+
+.edit h2 {
+    font-size: 2.2em;
+}
+
+.edit p {
+    color: #aaa;
+    margin-bottom: 2em;
+}
+
+.edit .preview {
+    margin-bottom: 0.2em;
+    color: #000;
+    font-weight: bold;
+}
+
+.edit .image {
+    max-width: 100%;
+    margin-bottom: 1em;
+}
